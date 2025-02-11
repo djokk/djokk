@@ -27,7 +27,7 @@
 </p>
 
 <h1 align="center">STATS</h1><br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=usaikoo" alt="usaikoo" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=djokk" alt="djokk" /> </p>
 
 
 
