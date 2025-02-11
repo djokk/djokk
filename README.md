@@ -36,9 +36,9 @@
 <tr>
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=usaikoo&&show_icons=true&count_private=true&hide_border=true&no-bg=true&no-frame=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=djokk&&show_icons=true&count_private=true&hide_border=true&no-bg=true&no-frame=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="U SaiKo" src="https://github-readme-streak-stats.herokuapp.com/?user=usaikoo&hide_border=true&no-bg=true&no-frame=true&fire=blue&ring=4F94EF" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="U SaiKo" src="https://github-readme-streak-stats.herokuapp.com/?user=djokk&hide_border=true&no-bg=true&no-frame=true&fire=blue&ring=4F94EF" />
 
 
   
@@ -46,20 +46,13 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=usaikoo&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=djokk&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
 </table>
 
-<!-- <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=usaikoo&show_icons=true&hide_border=true&card_width=200" alt="usaikoo" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usaikoo&fire=4F94EF&ring=4F94EF&hide_border=true&card_width=200" alt="usaikoo" />
-</p> -->
-<!-- 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaikoo&layout=default&hide=html&card_width=900&hide_border=true" alt="usaikoo" /> -->
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=usaikoo&bg_color=fff&color=000&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=djok&bg_color=fff&color=000&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h1 align="center">SOCIAL</h1>
