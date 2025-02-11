@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm Jakhongir</h1>
 <h3 align="center">Мне нравится создавать удобные и красивые интерфейсы, делая взаимодействие с веб-приложениями простым и интуитивно понятным. Я стремлюсь разрабатывать современные и эффективные решения, которые улучшают пользовательский опыт и облегчают жизнь людям. </h3>
 
-<!-- ![snake gif](https://github.com/usaikoo/usaikoo/blob/output/github-contribution-grid-snake.svg)
- -->
 <h1 align="center">TECHNOLOGY</h1>
 
 <p align="center"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -57,20 +55,15 @@
 
 <h1 align="center">SOCIAL</h1>
 <div align="center">
-<a href="https://usaiko.dev" target="blank">
-<img src="https://img.icons8.com/color/344/webmoney.png"  width="20"></img>
-</a>
-<a href="https://www.linkedin.com/in/usaiko" target="blank">
+<a href=https://www.linkedin.com/in/jakhongir-mansurov-3225231b8/" target="blank">
 <img src="https://img.icons8.com/fluency/344/linkedin-circled.png" width="20"></img>
 </a>
-<a href="https://www.instagram.com/usaiko.dev" target="blank">
+<a href="https://www.instagram.com/jahongir.mansur0v" target="blank">
 <img src="https://img.icons8.com/ios-filled/344/4a90e2/instagram-new--v1.png" width="20"></img>
 </a>
-<a href="mailto:info@usaiko.dev" target="blank">
+<a href="mailto:mansurovdjok@gmail.com" target="blank">
 <img src="https://img.icons8.com/ios-filled/344/4a90e2/gmail-new.png" width="20"></img>
 </a>
-</br>
-🔭 I’m not currently working for anyone.
 </div>
 
 
